@@ -4,7 +4,7 @@ Features:
 - Scan your card collection quickly and accurately with the mobile app or website.
 - Manage your collection through the app or website.
 
-Feature Roadmap:
+Planned features  :
 - Deckbuilding functionality that can reference your collection to show missing cards and
   generate a need/buy list for new decks
 - Storing photos from your scans that can be used for selling & trading
