@@ -12,4 +12,4 @@ Feature Roadmap:
 - Card recommendations based on average/common decklists for your hero
 - Have app learn from user's scanned images to improve card recognition.
 
-Created by Alexandra Shaw.
+Created by Alexandra Shaw. Copyright 2023.
